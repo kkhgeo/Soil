@@ -1,2 +1,2 @@
 # Soil
-soil geochemical database
+Soil geochemical database
